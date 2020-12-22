@@ -19,7 +19,7 @@ struct parsed_string
 
 void manual(void)
 {
-    printf("Welcome to shell by Kozhukh Polina 218\n");
+    printf("Welcome to shell\n");
     printf("Feel free to type in your commands after the appearance of\n");
     printf("$hell: \n");
     printf("When you're done type in 'exit' command and this will terminate shell.\n");
